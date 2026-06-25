@@ -3,5 +3,4 @@
 
 # newrepo
 
-i make som
-ethink different
+i make somethink different
